@@ -12,10 +12,12 @@ This was my first time creating and deploying contracts to a blockchain. I was a
 
 ## How to setup (Guide for OBG Management)
 1. Collect OBG member wallet addresses
-2. Mint and distribute tokens to wallets
+2. Mint and distribute tokens to wallets (airdrop addresses are kept in the run.js file)
 3. Create space on snapshot, add strategy for token voting
 4. Propose and vote!
 
 ## Future work
 1. Add snapshot X plugin so proposals can have executable code. This will let us replace our director of fund! 
 2. Upgrade to erc 4907 to recall votes instead of minting new votes every year
+
+
