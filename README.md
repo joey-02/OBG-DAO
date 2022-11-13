@@ -6,9 +6,10 @@ This was my first time creating and deploying contracts to a blockchain. I was a
 
 ## How to participate in Governance
 1. Create metamask
-2. Enter [snapshot](https://snapshot.org/#/) and connect wallet at the top right
-3. Join the OBG space by searching for us at the top
-4. Publish and vote on proposals! 
+2. Have someone from OBG management airdrop you a voting pass
+3. Enter [snapshot](https://snapshot.org/#/) and connect wallet at the top right
+4. Join the OBG space by searching for us at the top
+5. Publish and vote on proposals! 
 
 ## How to setup (Guide for OBG Management)
 1. Collect OBG member wallet addresses
