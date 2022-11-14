@@ -18,8 +18,8 @@ This was my first time creating and deploying contracts to a blockchain. I was a
 4. Propose and vote!
 
 ## Future work
-1. Add [snapshot X](https://docs.snapshotx.xyz/) plugin so proposals can have executable code. This will let us replace our director of fund! 
-2. Upgrade to erc 4907 to recall votes instead of minting new votes every year
-3. Instead of using IPFS, host image on-chain like nounsdao! Could use something like [pixelations](https://pixelations.xyz/) to encode the image on-chain automatically
+1. Upgrade to erc 4907 to recall votes instead of minting new votes every year
+2. Instead of using IPFS, host image on-chain like nounsdao! Could use something like [pixelations](https://pixelations.xyz/) to encode the image on-chain automatically
+3. Add [snapshot X](https://docs.snapshotx.xyz/) plugin so proposals can have executable code. This will let us replace our director of fund! 
 
 
