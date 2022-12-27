@@ -5,6 +5,7 @@ This was my first time creating and deploying contracts to a blockchain. I was a
 
 ## OBG Guide for (Re)deployment and joining the DAO
 https://docs.google.com/document/d/1whbmsYaZJKG696K63tq5OoI5cX1bWelITwdq4N0rDVE/edit 
+The project folder is located in the OBG management drive. 
 
 ## Future work
 1. Upgrade to erc 4907 to recall votes instead of minting new votes every year
